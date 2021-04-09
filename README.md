@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=koyangyang&show_icons=true&hide_title=true&hide_border=true" />
-
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyangyang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyangyang&show_icons=true&theme=flag-india)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyangyang&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
