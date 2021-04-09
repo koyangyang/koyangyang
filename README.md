@@ -1,6 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=koyangyang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-![](https://genshin-card.getloli.com/rand/187102167.png)
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -8,6 +7,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning HAUST
 - 💬 Ask me about WECAHT(awsomeyang)
 - 📫 How to reach me: mr.koyangyang@gmail.com
+
+![](https://genshin-card.getloli.com/rand/187102167.png)
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
