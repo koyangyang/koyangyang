@@ -5,6 +5,9 @@ name: Generate Snake
 
 on:
   push:
+    branches:
+      - main   # master 更新触发
+  watch:
     types: started
   schedule:
     - cron:  '0 0 * * *'
