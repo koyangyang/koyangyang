@@ -10,9 +10,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=koyangyang" ></div>
+<div align="center"><img src="https://github-readme-streak-stats.koyang.workers.dev/?user=koyangyang" ></div>
 
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=koyangyang&theme=github-light" ></div>
+<div align="center"><img src="https://activity-graph.koyang.workers.dev/graph?username=koyangyang&theme=github-light" ></div>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/koyangyang/hugo_comment/assets/github-contribution-grid-snake.svg" ></div>
 
