@@ -4,8 +4,8 @@ name: Generate Snake
 
 
 on:
-  watch:
-    types: pushed
+  push:
+    types: started
   schedule:
     - cron:  '0 0 * * *'
 
