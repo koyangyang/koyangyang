@@ -20,7 +20,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koyangyang&layout=compact" ></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=koyangyang" ></div>
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=koyangyang" ></div> -->
 
 
 <!--
