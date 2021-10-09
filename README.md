@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78A63&lines=Here+are+some+ideas+to+get+you+started%3A)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning HAUST
 - 💬 Ask me about WECAHT(awsomeyang)
@@ -10,7 +10,12 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyangyang&show_icons=true&theme=flag-india)
+![koyangyang's github activity graph](https://activity-graph.herokuapp.com/graph?username=koyangyang&theme=github-light)
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Achuan-2/Achuan-2/assets/github-contribution-grid-snake.svg" ></div>
+
+![koyangyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=koyangyang&show_icons=true&theme=flag-india)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koyangyang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
