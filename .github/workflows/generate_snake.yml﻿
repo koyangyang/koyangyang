@@ -2,10 +2,9 @@ name: Generate Snake
 
 
 on:
-  watch:
-    types: started
-  schedule:
-    - cron:  '20 23 * * *'
+  push:
+    branches:
+      - main   # master 更新触发
 
 
 jobs:
