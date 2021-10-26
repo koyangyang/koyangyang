@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HAUST
 - 💬 Ask me about WECAHT(awsomeyang)
 - 📫 How to reach me: mr.koyangyang@gmail.com
-- 😄 Blog: [一只会敲代码的Sheep](https://koyangyang.github.io)
+- 😄 Blog: [一只会敲代码的Sheep](https://codeyang.pages.dev/)
 
 
 ## &#x1f4c8; GitHub Stats
