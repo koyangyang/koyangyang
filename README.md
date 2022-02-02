@@ -10,7 +10,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,25 +53,16 @@ Sunday       44 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     35 mins             ██████████░░░░░░░░░░░░░░░   41.25% 
-Other                    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
-XML                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.83% 
-YAML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
-Shell Script             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.67%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 3 mins         ██████████████████░░░░░░░   73.02% 
-VS Code                  23 mins             ██████░░░░░░░░░░░░░░░░░░░   26.98%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-03_dorm                  46 mins             █████████████░░░░░░░░░░░░   53.96% 
-Unknown Project          22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.61% 
-SpringBoot               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
-dorm                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.57% 
-vueblog                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -92,7 +83,7 @@ Vue                      4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/koyangyang/koyangyang/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2022 18:42:33 UTC
+ Last Updated on 02/02/2022 18:42:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center"><img src="https://github-readme-streak-stats.koyang.workers.dev/?user=koyangyang" ></div> -->
