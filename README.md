@@ -10,7 +10,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,19 +53,16 @@ Sunday       40 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     18 mins             ████████████░░░░░░░░░░░░░   49.73% 
-SQL                      9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.3% 
-XML                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
-Properties               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.63%
+Properties               6 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-IntelliJ                 37 mins             █████████████████████████   100.0%
+IntelliJ                 6 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Blog                     37 mins             █████████████████████████   100.0%
+Blog                     6 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.0%
+Windows                  6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -86,7 +83,7 @@ Vue                      4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/koyangyang/koyangyang/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/03/2022 18:43:42 UTC
+ Last Updated on 05/03/2022 18:41:53 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center"><img src="https://github-readme-streak-stats.koyang.workers.dev/?user=koyangyang" ></div> -->
