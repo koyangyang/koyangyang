@@ -10,7 +10,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -83,7 +83,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/koyangyang/koyangyang/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/05/2022 18:46:23 UTC
+ Last Updated on 05/05/2022 18:45:53 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center"><img src="https://github-readme-streak-stats.koyang.workers.dev/?user=koyangyang" ></div> -->
