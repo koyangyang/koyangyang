@@ -10,21 +10,21 @@
 
 ## &#x1f4c8; GitHub Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 4 Contributions in the Year 2022
+> 🏆 7 Contributions in the Year 2022
  > 
-> 📦 153.4 kB Used in GitHub's Storage 
+> 📦 163.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 16 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -55,28 +55,28 @@ Sunday       7 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      32 mins             ███████████████████░░░░░░   76.04% 
-CMake                    10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.96%
+C++                      5 hrs 25 mins       ████████████████████░░░░░   82.02% 
+CMake                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.98%
 
 🔥 Editors: 
-CLion                    43 mins             █████████████████████████   100.0%
+CLion                    6 hrs 37 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-C++                      43 mins             █████████████████████████   100.0%
+C++                      6 hrs 37 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.0%
+Windows                  6 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
@@ -86,7 +86,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/koyangyang/koyangyang/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 18:47:37 UTC
+ Last Updated on 17/08/2022 18:48:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center"><img src="https://github-readme-streak-stats.koyang.workers.dev/?user=koyangyang" ></div> -->
