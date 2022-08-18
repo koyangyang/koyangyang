@@ -10,7 +10,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -55,17 +55,17 @@ Sunday       7 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      5 hrs 25 mins       ████████████████████░░░░░   82.02% 
-CMake                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.98%
+C++                      3 hrs 6 mins        ██████████████████████░░░   91.12% 
+CMake                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.88%
 
 🔥 Editors: 
-CLion                    6 hrs 37 mins       █████████████████████████   100.0%
+CLion                    3 hrs 24 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-C++                      6 hrs 37 mins       █████████████████████████   100.0%
+C++                      3 hrs 24 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 37 mins       █████████████████████████   100.0%
+Windows                  3 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
@@ -86,7 +86,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/koyangyang/koyangyang/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 18:48:09 UTC
+ Last Updated on 18/08/2022 18:45:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center"><img src="https://github-readme-streak-stats.koyang.workers.dev/?user=koyangyang" ></div> -->
