@@ -10,19 +10,19 @@
 
 ## &#x1f4c8; GitHub Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 7 Contributions in the Year 2022
+> 🏆 8 Contributions in the Year 2022
  > 
 > 📦 163.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -55,20 +55,21 @@ Sunday       6 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      5 hrs 35 mins       ████████████████████████░   97.16% 
-CMake                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83% 
+C++                      5 hrs 42 mins       ████████████████████████░   97.17% 
+CMake                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+ObjectiveC               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12% 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-CLion                    5 hrs 44 mins       █████████████████████████   100.0%
+CLion                    5 hrs 52 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-C++                      5 hrs               █████████████████████░░░░   87.05% 
-DataStruct100            43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
+C++                      5 hrs 7 mins        █████████████████████░░░░   87.2% 
+DataStruct100            43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39% 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 💻 Operating System: 
-Windows                  5 hrs 44 mins       █████████████████████████   100.0%
+Windows                  5 hrs 52 mins       █████████████████████████   100.0%
 
 ```
 
@@ -89,7 +90,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/koyangyang/koyangyang/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/08/2022 18:45:58 UTC
+ Last Updated on 24/08/2022 18:53:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center"><img src="https://github-readme-streak-stats.koyang.workers.dev/?user=koyangyang" ></div> -->
