@@ -10,7 +10,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,7 +18,7 @@
 
 > 🏆 8 Contributions in the Year 2022
  > 
-> 📦 163.1 kB Used in GitHub's Storage 
+> 📦 163.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,48 +26,6 @@
  > 
 > 🔑 4 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-🌆 Daytime    11 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-🌃 Evening    37 commits     ████████████████░░░░░░░░░   67.27% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-Wednesday    6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       13 commits     ██████░░░░░░░░░░░░░░░░░░░   23.64% 
-Saturday     28 commits     ████████████░░░░░░░░░░░░░   50.91% 
-Sunday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.91%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -85,7 +43,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/koyangyang/koyangyang/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:45:25 UTC
+ Last Updated on 04/09/2022 18:46:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center"><img src="https://github-readme-streak-stats.koyang.workers.dev/?user=koyangyang" ></div> -->
