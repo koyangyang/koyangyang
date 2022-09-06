@@ -16,15 +16,15 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 8 Contributions in the Year 2022
+> 🏆 7 Contributions in the Year 2022
  > 
-> 📦 163.2 kB Used in GitHub's Storage 
+> 📦 163.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -71,11 +71,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
@@ -85,7 +85,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/koyangyang/koyangyang/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 18:48:32 UTC
+ Last Updated on 06/09/2022 18:48:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center"><img src="https://github-readme-streak-stats.koyang.workers.dev/?user=koyangyang" ></div> -->
