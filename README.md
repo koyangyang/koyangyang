@@ -26,48 +26,6 @@
  > 
 > 🔑 4 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-🌆 Daytime    12 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-🌃 Evening    37 commits     ████████████████░░░░░░░░░   64.91% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
-Tuesday      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
-Wednesday    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       13 commits     █████░░░░░░░░░░░░░░░░░░░░   22.81% 
-Saturday     28 commits     ████████████░░░░░░░░░░░░░   49.12% 
-Sunday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -85,7 +43,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/koyangyang/koyangyang/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/09/2022 18:49:23 UTC
+ Last Updated on 26/09/2022 18:53:23 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div align="center"><img src="https://github-readme-streak-stats.koyang.workers.dev/?user=koyangyang" ></div> -->
