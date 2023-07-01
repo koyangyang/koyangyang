@@ -9,8 +9,11 @@
 ## &#x1f4c8; Code Stats
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
+```txt
+Python           1 hr 50 mins    █████████████████████▒░░░   85.08 %
+Markdown         19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Jupyter          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
