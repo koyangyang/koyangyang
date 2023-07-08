@@ -10,10 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 53 mins    ███████████████████▓░░░░░   79.21 %
-Markdown         19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-Jupyter          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Jupyter          9 mins          █████████████████▓░░░░░░░   70.17 %
+Python           2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.88 %
+GitIgnore file   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
 ```
 
 <!--END_SECTION:waka-->
