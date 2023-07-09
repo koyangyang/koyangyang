@@ -10,9 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter          9 mins          █████████████████▓░░░░░░░   70.17 %
-Python           2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.88 %
-GitIgnore file   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
