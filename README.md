@@ -10,7 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     1 hr 11 mins    ████████░░░░░░░░░░░░░░░░░   32.19 %
+Assembly   1 hr 10 mins    ████████░░░░░░░░░░░░░░░░░   31.94 %
+Markdown   33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+Bash       23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+C++        20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
 ```
 
 <!--END_SECTION:waka-->
