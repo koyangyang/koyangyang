@@ -10,11 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           12 hrs 4 mins   ████████████▓░░░░░░░░░░░░   51.11 %
-Assembly         8 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   36.00 %
-Markdown         1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-ActionScript 3   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Prolog           26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Python           19 hrs 41 mins  ███████████████░░░░░░░░░░   59.61 %
+Assembly         10 hrs 17 mins  ███████▓░░░░░░░░░░░░░░░░░   31.16 %
+Markdown         1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+ActionScript 3   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Prolog           26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
